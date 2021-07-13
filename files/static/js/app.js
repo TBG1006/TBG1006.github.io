@@ -88,11 +88,7 @@ function init () {
         buildMetadata(firstSample);
     })
     
-<<<<<<< HEAD
-    
-=======
-   
->>>>>>> 8f44f2e854d84417bbb68765cda5356cf03f1222
+
 }
 
 

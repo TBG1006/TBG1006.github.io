@@ -85,9 +85,10 @@ function init () {
 
         // console.log(firstSample)
         buildCharts(firstSample);
+        buildMetadata(firstSample);
     })
     
-    buildMetadata(firstSample);
+    
 }
 
 
